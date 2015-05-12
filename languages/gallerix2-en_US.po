@@ -1,0 +1,891 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gallerix II\n"
+"POT-Creation-Date: 2014-12-01 12:59+0200\n"
+"PO-Revision-Date: 2014-12-01 12:59+0200\n"
+"Last-Translator: \n"
+"Language-Team: Eightyclouds <support@eightyclouds.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class/gallerix2.php:79
+msgid "Comment Sent!"
+msgstr "Comment Sent!"
+
+#: ../admin/class/gallerix2.php:1187
+msgid "Use Default"
+msgstr "Use Default"
+
+#: ../admin/view/bans/list.php:5
+msgid "Ban List"
+msgstr "Ban List"
+
+#: ../admin/view/bans/list.php:6
+msgid "Manage Ban List"
+msgstr "Manage Ban List"
+
+#: ../admin/view/bans/list.php:11
+msgid "Delete Ban List"
+msgstr "Delete Ban List"
+
+#: ../admin/view/bans/list.php:18
+msgid "Unban"
+msgstr "Unban"
+
+#: ../admin/view/categories/addedit.php:5
+msgid "Add/Edit Category"
+msgstr "Add/Edit Category"
+
+#: ../admin/view/categories/addedit.php:6
+msgid "Create new or edit existing category"
+msgstr "Create new or edit existing category"
+
+#: ../admin/view/categories/addedit.php:22
+msgid "Category Title"
+msgstr "Category Title"
+
+#: ../admin/view/categories/addedit.php:23 ../admin/view/comments/edit.php:28
+#: ../admin/view/comments/edit.php:37 ../admin/view/general/options.php:800
+#: ../admin/view/general/options.php:827 ../admin/view/general/options.php:834
+#: ../admin/view/posts/addedit.php:30 ../admin/view/posts/addedit.php:39
+#: ../admin/view/posts/addedit.php:54 ../admin/view/posts/addedit.php:67
+msgid "Required!"
+msgstr "Required!"
+
+#: ../admin/view/categories/addedit.php:25
+msgid "Name of the category"
+msgstr "Name of the category"
+
+#: ../admin/view/categories/addedit.php:29
+msgid "Category Thumb"
+msgstr "Category Thumb"
+
+#: ../admin/view/categories/addedit.php:30
+#: ../admin/view/general/options.php:33 ../admin/view/general/options.php:40
+#: ../admin/view/general/options.php:47 ../admin/view/general/options.php:54
+#: ../admin/view/general/options.php:61 ../admin/view/general/options.php:68
+#: ../admin/view/general/options.php:75 ../admin/view/general/options.php:82
+#: ../admin/view/general/options.php:89 ../admin/view/general/options.php:96
+#: ../admin/view/general/options.php:103 ../admin/view/general/options.php:110
+#: ../admin/view/general/options.php:117 ../admin/view/general/options.php:124
+#: ../admin/view/general/options.php:135 ../admin/view/general/options.php:142
+#: ../admin/view/general/options.php:149 ../admin/view/general/options.php:156
+#: ../admin/view/general/options.php:163 ../admin/view/general/options.php:170
+#: ../admin/view/general/options.php:177 ../admin/view/general/options.php:184
+#: ../admin/view/general/options.php:191 ../admin/view/general/options.php:198
+#: ../admin/view/general/options.php:205 ../admin/view/general/options.php:212
+#: ../admin/view/general/options.php:219 ../admin/view/general/options.php:226
+#: ../admin/view/general/options.php:233 ../admin/view/general/options.php:240
+#: ../admin/view/general/options.php:247 ../admin/view/general/options.php:254
+#: ../admin/view/general/options.php:261 ../admin/view/general/options.php:268
+#: ../admin/view/general/options.php:275 ../admin/view/general/options.php:282
+#: ../admin/view/general/options.php:289 ../admin/view/general/options.php:296
+#: ../admin/view/general/options.php:303 ../admin/view/general/options.php:311
+#: ../admin/view/general/options.php:318 ../admin/view/general/options.php:325
+#: ../admin/view/general/options.php:332 ../admin/view/general/options.php:339
+#: ../admin/view/general/options.php:346 ../admin/view/general/options.php:353
+#: ../admin/view/general/options.php:360 ../admin/view/general/options.php:367
+#: ../admin/view/general/options.php:374 ../admin/view/general/options.php:381
+#: ../admin/view/general/options.php:396 ../admin/view/general/options.php:407
+#: ../admin/view/general/options.php:418 ../admin/view/general/options.php:429
+#: ../admin/view/general/options.php:440 ../admin/view/general/options.php:451
+#: ../admin/view/general/options.php:462 ../admin/view/general/options.php:475
+#: ../admin/view/general/options.php:486 ../admin/view/general/options.php:497
+#: ../admin/view/general/options.php:508 ../admin/view/general/options.php:519
+#: ../admin/view/general/options.php:530 ../admin/view/general/options.php:541
+#: ../admin/view/general/options.php:552 ../admin/view/general/options.php:563
+#: ../admin/view/general/options.php:574 ../admin/view/general/options.php:585
+#: ../admin/view/general/options.php:596 ../admin/view/general/options.php:607
+#: ../admin/view/general/options.php:620 ../admin/view/general/options.php:627
+#: ../admin/view/general/options.php:634 ../admin/view/general/options.php:641
+#: ../admin/view/general/options.php:648 ../admin/view/general/options.php:655
+#: ../admin/view/general/options.php:662 ../admin/view/general/options.php:671
+#: ../admin/view/general/options.php:678 ../admin/view/general/options.php:685
+#: ../admin/view/general/options.php:692 ../admin/view/general/options.php:699
+#: ../admin/view/general/options.php:706 ../admin/view/general/options.php:713
+#: ../admin/view/general/options.php:720 ../admin/view/general/options.php:727
+#: ../admin/view/general/options.php:734 ../admin/view/general/options.php:741
+#: ../admin/view/general/options.php:748 ../admin/view/general/options.php:755
+#: ../admin/view/general/options.php:770 ../admin/view/general/options.php:780
+#: ../admin/view/general/options.php:793 ../admin/view/general/options.php:813
+#: ../admin/view/general/options.php:820 ../admin/view/general/options.php:841
+#: ../admin/view/general/options.php:848 ../admin/view/general/options.php:855
+#: ../admin/view/general/options.php:866 ../admin/view/general/options.php:876
+#: ../admin/view/general/options.php:895 ../admin/view/general/options.php:905
+#: ../admin/view/general/options.php:915 ../admin/view/general/options.php:922
+#: ../admin/view/posts/addedit.php:81 ../admin/view/posts/addedit.php:103
+#: ../admin/view/posts/addedit.php:112
+msgid "Optional."
+msgstr "Optional."
+
+#: ../admin/view/categories/addedit.php:32
+msgid "If empty, the category will use post thumb"
+msgstr "If empty, the category will use post thumb"
+
+#: ../admin/view/categories/addedit.php:37
+msgid "Update Category"
+msgstr "Update Category"
+
+#: ../admin/view/categories/addedit.php:37
+msgid "Save Category"
+msgstr "Save Category"
+
+#: ../admin/view/categories/addedit.php:40 ../admin/view/comments/edit.php:49
+#: ../admin/view/general/options.php:939 ../admin/view/posts/addedit.php:124
+msgid "Cancel"
+msgstr "Cancel"
+
+#: ../admin/view/categories/list.php:5
+msgid "Category List"
+msgstr "Category List"
+
+#: ../admin/view/categories/list.php:6
+msgid "Create / Edit existing Category"
+msgstr "Create / Edit existing Category"
+
+#: ../admin/view/categories/list.php:9
+msgid "Create New Category"
+msgstr "Create New Category"
+
+#: ../admin/view/categories/list.php:11
+msgid "Update Category Order"
+msgstr "Update Category Order"
+
+#: ../admin/view/categories/list.php:17 ../admin/view/posts/list.php:17
+msgid "Order"
+msgstr "Order"
+
+#: ../admin/view/categories/list.php:18 ../admin/view/comments/list.php:19
+#: ../admin/view/posts/list.php:18
+msgid "Delete"
+msgstr "Delete"
+
+#: ../admin/view/categories/list.php:19 ../admin/view/comments/list.php:20
+#: ../admin/view/posts/list.php:19
+msgid "Edit"
+msgstr "Edit"
+
+#: ../admin/view/comments/edit.php:10 ../admin/view/comments/edit.php:11
+msgid "Edit Comment"
+msgstr "Edit Comment"
+
+#: ../admin/view/comments/edit.php:27
+msgid "Comment Author"
+msgstr "Comment Author"
+
+#: ../admin/view/comments/edit.php:30
+msgid "Edit Author Name"
+msgstr "Edit Author Name"
+
+#: ../admin/view/comments/edit.php:36
+msgid "Comment Text"
+msgstr "Comment Text"
+
+#: ../admin/view/comments/edit.php:39
+msgid "Edit Comment Text"
+msgstr "Edit Comment Text"
+
+#: ../admin/view/comments/edit.php:47
+msgid "Update"
+msgstr "Update"
+
+#: ../admin/view/comments/list.php:5
+msgid "Comments List"
+msgstr "Comments List"
+
+#: ../admin/view/comments/list.php:6
+msgid "Manage Comments"
+msgstr "Manage Comments"
+
+#: ../admin/view/comments/list.php:11
+msgid "Delete All Comments"
+msgstr "Delete All Comments"
+
+#: ../admin/view/comments/list.php:18
+msgid "Ban"
+msgstr "Ban"
+
+#: ../admin/view/general/options.php:13
+msgid "General Settings"
+msgstr "General Settings"
+
+#: ../admin/view/general/options.php:14
+msgid "Adjust Gallerix 2 general settings"
+msgstr "Adjust Gallerix 2 general settings"
+
+#: ../admin/view/general/options.php:32 ../admin/view/general/options.php:35
+msgid "Title text color"
+msgstr "Title text color"
+
+#: ../admin/view/general/options.php:39 ../admin/view/general/options.php:42
+msgid "Category / Post Wrapper Background Color"
+msgstr "Category / Post Wrapper Background Color"
+
+#: ../admin/view/general/options.php:46 ../admin/view/general/options.php:49
+msgid "Category / Post Wrapper Shadow Color"
+msgstr "Category / Post Wrapper Shadow Color"
+
+#: ../admin/view/general/options.php:53 ../admin/view/general/options.php:56
+msgid "Category title text color"
+msgstr "Category title text color"
+
+#: ../admin/view/general/options.php:60 ../admin/view/general/options.php:63
+msgid "Post title text color"
+msgstr "Post title text color"
+
+#: ../admin/view/general/options.php:67 ../admin/view/general/options.php:70
+msgid "Post description text color"
+msgstr "Post description text color"
+
+#: ../admin/view/general/options.php:74
+msgid "Post description comments text color"
+msgstr "Post description comments text color"
+
+#: ../admin/view/general/options.php:77
+msgid "Comments count text color in the description block"
+msgstr "Comments count text color in the description block"
+
+#: ../admin/view/general/options.php:81
+msgid "Post description likes text color"
+msgstr "Post description likes text color"
+
+#: ../admin/view/general/options.php:84
+msgid "Likes count text color in the description block"
+msgstr "Likes count text color in the description block"
+
+#: ../admin/view/general/options.php:88
+msgid "Post description views text color"
+msgstr "Post description views text color"
+
+#: ../admin/view/general/options.php:91
+msgid "Views count text color in the description block"
+msgstr "Views count text color in the description block"
+
+#: ../admin/view/general/options.php:95
+msgid "Post description comments icon color"
+msgstr "Post description comments icon color"
+
+#: ../admin/view/general/options.php:98
+msgid "Comments icon color in the description block"
+msgstr "Comments icon color in the description block"
+
+#: ../admin/view/general/options.php:102
+msgid "Post description likes icon color"
+msgstr "Post description likes icon color"
+
+#: ../admin/view/general/options.php:105
+msgid "Likes count icon color in the description block"
+msgstr "Likes count icon color in the description block"
+
+#: ../admin/view/general/options.php:109
+msgid "Post description views icon color"
+msgstr "Post description views icon color"
+
+#: ../admin/view/general/options.php:112
+msgid "Views count icon color in the description block"
+msgstr "Views count icon color in the description block"
+
+#: ../admin/view/general/options.php:116
+msgid "Navigation Buttons Color"
+msgstr "Navigation Buttons Color"
+
+#: ../admin/view/general/options.php:119
+msgid "(Next / Previous) Buttons Color"
+msgstr "(Next / Previous) Buttons Color"
+
+#: ../admin/view/general/options.php:123
+msgid "Navigation Buttons Hover Color"
+msgstr "Navigation Buttons Hover Color"
+
+#: ../admin/view/general/options.php:126
+msgid "(Next / Previous) Buttons Hover Color"
+msgstr "(Next / Previous) Buttons Hover Color"
+
+#: ../admin/view/general/options.php:134
+msgid "Blackbox Color"
+msgstr "Blackbox Color"
+
+#: ../admin/view/general/options.php:137
+msgid "Background screen color during lightbox view"
+msgstr "Background screen color during lightbox view"
+
+#: ../admin/view/general/options.php:141 ../admin/view/general/options.php:144
+msgid "Lightbox Background Color"
+msgstr "Lightbox Background Color"
+
+#: ../admin/view/general/options.php:148 ../admin/view/general/options.php:151
+msgid "Lightbox Left Navigation Background Color"
+msgstr "Lightbox Left Navigation Background Color"
+
+#: ../admin/view/general/options.php:155 ../admin/view/general/options.php:158
+msgid "Lightbox Shadow Color"
+msgstr "Lightbox Shadow Color"
+
+#: ../admin/view/general/options.php:162
+msgid "Lightbox Title Color"
+msgstr "Lightbox Title Color"
+
+#: ../admin/view/general/options.php:165
+msgid "Lightbox Post Title Color"
+msgstr "Lightbox Post Title Color"
+
+#: ../admin/view/general/options.php:169
+msgid "Lightbox Description Color"
+msgstr "Lightbox Description Color"
+
+#: ../admin/view/general/options.php:172
+msgid "Lightbox Post Description Color"
+msgstr "Lightbox Post Description Color"
+
+#: ../admin/view/general/options.php:176 ../admin/view/general/options.php:179
+msgid "Lightbox Share Links Color"
+msgstr "Lightbox Share Links Color"
+
+#: ../admin/view/general/options.php:183 ../admin/view/general/options.php:186
+msgid "Lightbox Share Links Hover Color"
+msgstr "Lightbox Share Links Hover Color"
+
+#: ../admin/view/general/options.php:190 ../admin/view/general/options.php:193
+msgid "Lightbox Comments Header Color"
+msgstr "Lightbox Comments Header Color"
+
+#: ../admin/view/general/options.php:197 ../admin/view/general/options.php:200
+msgid "Lightbox Comments Author Color"
+msgstr "Lightbox Comments Author Color"
+
+#: ../admin/view/general/options.php:204 ../admin/view/general/options.php:207
+msgid "Lightbox Comments Date Color"
+msgstr "Lightbox Comments Date Color"
+
+#: ../admin/view/general/options.php:211 ../admin/view/general/options.php:214
+msgid "Lightbox Comments Text Color"
+msgstr "Lightbox Comments Text Color"
+
+#: ../admin/view/general/options.php:218 ../admin/view/general/options.php:221
+msgid "Lightbox Comments Reply Color"
+msgstr "Lightbox Comments Reply Color"
+
+#: ../admin/view/general/options.php:225 ../admin/view/general/options.php:228
+msgid "Lightbox Comments Reply Hover Color"
+msgstr "Lightbox Comments Reply Hover Color"
+
+#: ../admin/view/general/options.php:232 ../admin/view/general/options.php:235
+msgid "Lightbox Load More Comments Button Background"
+msgstr "Lightbox Load More Comments Button Background"
+
+#: ../admin/view/general/options.php:239 ../admin/view/general/options.php:242
+msgid "Lightbox Load More Comments Button Color"
+msgstr "Lightbox Load More Comments Button Color"
+
+#: ../admin/view/general/options.php:246 ../admin/view/general/options.php:249
+msgid "Lightbox Load More Comments Button Hover Background"
+msgstr "Lightbox Load More Comments Button Hover Background"
+
+#: ../admin/view/general/options.php:253 ../admin/view/general/options.php:256
+msgid "Lightbox Load More Comments Button Hover Color"
+msgstr "Lightbox Load More Comments Button Hover Color"
+
+#: ../admin/view/general/options.php:260 ../admin/view/general/options.php:263
+msgid "Lightbox Load More Comments Borders Color"
+msgstr "Lightbox Load More Comments Borders Color"
+
+#: ../admin/view/general/options.php:267 ../admin/view/general/options.php:270
+msgid "Lightbox Comment Form Header Color"
+msgstr "Lightbox Comment Form Header Color"
+
+#: ../admin/view/general/options.php:274 ../admin/view/general/options.php:277
+msgid "Lightbox Comment Form Input Background Color"
+msgstr "Lightbox Comment Form Input Background Color"
+
+#: ../admin/view/general/options.php:281 ../admin/view/general/options.php:284
+msgid "Lightbox Comment Form Input Text Color"
+msgstr "Lightbox Comment Form Input Text Color"
+
+#: ../admin/view/general/options.php:288 ../admin/view/general/options.php:291
+msgid "Lightbox Comment Form Input Border Color"
+msgstr "Lightbox Comment Form Input Border Color"
+
+#: ../admin/view/general/options.php:295 ../admin/view/general/options.php:298
+msgid "Lightbox Comment Form Submit Button Background Color"
+msgstr "Lightbox Comment Form Submit Button Background Color"
+
+#: ../admin/view/general/options.php:302 ../admin/view/general/options.php:305
+msgid "Lightbox Comment Form Submit Button Text Color"
+msgstr "Lightbox Comment Form Submit Button Text Color"
+
+#: ../admin/view/general/options.php:310 ../admin/view/general/options.php:313
+msgid "Lightbox Comment Form Submit Button Hover Background Color"
+msgstr "Lightbox Comment Form Submit Button Hover Background Color"
+
+#: ../admin/view/general/options.php:317 ../admin/view/general/options.php:320
+msgid "Lightbox Comment Form Submit Button Hover Text Color"
+msgstr "Lightbox Comment Form Submit Button Hover Text Color"
+
+#: ../admin/view/general/options.php:324 ../admin/view/general/options.php:327
+msgid "Lightbox Comment Form Cancel Reply Text Color"
+msgstr "Lightbox Comment Form Cancel Reply Text Color"
+
+#: ../admin/view/general/options.php:331 ../admin/view/general/options.php:334
+msgid "Lightbox Navigation Color"
+msgstr "Lightbox Navigation Color"
+
+#: ../admin/view/general/options.php:338
+msgid "Lightbox Navigation Hover Color"
+msgstr "Lightbox Navigation Hover Color"
+
+#: ../admin/view/general/options.php:341
+msgid "Lightbox Navigation Color Hover"
+msgstr "Lightbox Navigation Color Hover"
+
+#: ../admin/view/general/options.php:345
+msgid "Lightbox Media Navigation Color"
+msgstr "Lightbox Media Navigation Color"
+
+#: ../admin/view/general/options.php:348
+msgid "Lightbox Media Navigation (Next/Prev post image controls) Color"
+msgstr "Lightbox Media Navigation (Next/Prev post image controls) Color"
+
+#: ../admin/view/general/options.php:352
+msgid "Lightbox Media Navigation Hover Color"
+msgstr "Lightbox Media Navigation Hover Color"
+
+#: ../admin/view/general/options.php:355
+msgid "Lightbox Media Navigation (Next/Prev post image controls) Color Hover"
+msgstr "Lightbox Media Navigation (Next/Prev post image controls) Color Hover"
+
+#: ../admin/view/general/options.php:359 ../admin/view/general/options.php:362
+#: ../admin/view/general/options.php:376
+msgid "Lightbox Like Button Background Color"
+msgstr "Lightbox Like Button Background Color"
+
+#: ../admin/view/general/options.php:366 ../admin/view/general/options.php:369
+#: ../admin/view/general/options.php:383
+msgid "Lightbox Like Button Color"
+msgstr "Lightbox Like Button Color"
+
+#: ../admin/view/general/options.php:373
+msgid "Lightbox Liked Button Background Color"
+msgstr "Lightbox Liked Button Background Color"
+
+#: ../admin/view/general/options.php:380
+msgid "Lightbox Liked Button Color"
+msgstr "Lightbox Liked Button Color"
+
+#: ../admin/view/general/options.php:395 ../admin/view/general/options.php:402
+msgid "Title Font-Family"
+msgstr "Title Font-Family"
+
+#: ../admin/view/general/options.php:406 ../admin/view/general/options.php:413
+msgid "Category Title Font-Family"
+msgstr "Category Title Font-Family"
+
+#: ../admin/view/general/options.php:417 ../admin/view/general/options.php:424
+msgid "Post Title Font-Family"
+msgstr "Post Title Font-Family"
+
+#: ../admin/view/general/options.php:428 ../admin/view/general/options.php:435
+msgid "Post Description Text Font-Family"
+msgstr "Post Description Text Font-Family"
+
+#: ../admin/view/general/options.php:439 ../admin/view/general/options.php:446
+msgid "Post Comments Count Text Font-Family"
+msgstr "Post Comments Count Text Font-Family"
+
+#: ../admin/view/general/options.php:450 ../admin/view/general/options.php:457
+msgid "Post Likes Count Text Font-Family"
+msgstr "Post Likes Count Text Font-Family"
+
+#: ../admin/view/general/options.php:461 ../admin/view/general/options.php:468
+msgid "Post Views Count Text Font-Family"
+msgstr "Post Views Count Text Font-Family"
+
+#: ../admin/view/general/options.php:474 ../admin/view/general/options.php:481
+msgid "Lightbox Title Font-Family"
+msgstr "Lightbox Title Font-Family"
+
+#: ../admin/view/general/options.php:485 ../admin/view/general/options.php:492
+msgid "Lightbox Description Font-Family"
+msgstr "Lightbox Description Font-Family"
+
+#: ../admin/view/general/options.php:496 ../admin/view/general/options.php:503
+msgid "Lightbox Share Links Font-Family"
+msgstr "Lightbox Share Links Font-Family"
+
+#: ../admin/view/general/options.php:507 ../admin/view/general/options.php:514
+msgid "Lightbox Comments Header Font-Family"
+msgstr "Lightbox Comments Header Font-Family"
+
+#: ../admin/view/general/options.php:518 ../admin/view/general/options.php:525
+msgid "Lightbox Comments Author Font-Family"
+msgstr "Lightbox Comments Author Font-Family"
+
+#: ../admin/view/general/options.php:529 ../admin/view/general/options.php:536
+msgid "Lightbox Comments Date Font-Family"
+msgstr "Lightbox Comments Date Font-Family"
+
+#: ../admin/view/general/options.php:540 ../admin/view/general/options.php:547
+msgid "Lightbox Comments Text Font-Family"
+msgstr "Lightbox Comments Text Font-Family"
+
+#: ../admin/view/general/options.php:551 ../admin/view/general/options.php:558
+msgid "Lightbox Comments Reply Link Font-Family"
+msgstr "Lightbox Comments Reply Link Font-Family"
+
+#: ../admin/view/general/options.php:562 ../admin/view/general/options.php:569
+msgid "Lightbox Load More Comments Button Font-Family"
+msgstr "Lightbox Load More Comments Button Font-Family"
+
+#: ../admin/view/general/options.php:573 ../admin/view/general/options.php:580
+msgid "Lightbox Comment Form Header Font-Family"
+msgstr "Lightbox Comment Form Header Font-Family"
+
+#: ../admin/view/general/options.php:584 ../admin/view/general/options.php:591
+msgid "Lightbox Comment Form Input Font-Family"
+msgstr "Lightbox Comment Form Input Font-Family"
+
+#: ../admin/view/general/options.php:595 ../admin/view/general/options.php:602
+msgid "Lightbox Comment Form Submit Button Font-Family"
+msgstr "Lightbox Comment Form Submit Button Font-Family"
+
+#: ../admin/view/general/options.php:606 ../admin/view/general/options.php:613
+msgid "Lightbox Comment Form Cancel Reply Text Font-Family"
+msgstr "Lightbox Comment Form Cancel Reply Text Font-Family"
+
+#: ../admin/view/general/options.php:619 ../admin/view/general/options.php:622
+msgid "Title Font size"
+msgstr "Title Font size"
+
+#: ../admin/view/general/options.php:626 ../admin/view/general/options.php:629
+msgid "Category Title Font size"
+msgstr "Category Title Font size"
+
+#: ../admin/view/general/options.php:633 ../admin/view/general/options.php:636
+msgid "Post Title Font size"
+msgstr "Post Title Font size"
+
+#: ../admin/view/general/options.php:640 ../admin/view/general/options.php:643
+msgid "Post Description Text Font size"
+msgstr "Post Description Text Font size"
+
+#: ../admin/view/general/options.php:647 ../admin/view/general/options.php:650
+msgid "Post Comments Count Text Font size"
+msgstr "Post Comments Count Text Font size"
+
+#: ../admin/view/general/options.php:654 ../admin/view/general/options.php:657
+msgid "Post Likes Count Text Font size"
+msgstr "Post Likes Count Text Font size"
+
+#: ../admin/view/general/options.php:661 ../admin/view/general/options.php:664
+msgid "Post Views Count Text Font size"
+msgstr "Post Views Count Text Font size"
+
+#: ../admin/view/general/options.php:670 ../admin/view/general/options.php:673
+msgid "Lightbox Title Font size"
+msgstr "Lightbox Title Font size"
+
+#: ../admin/view/general/options.php:677 ../admin/view/general/options.php:680
+msgid "Lightbox Description Font size"
+msgstr "Lightbox Description Font size"
+
+#: ../admin/view/general/options.php:684 ../admin/view/general/options.php:687
+msgid "Lightbox Share Links Font size"
+msgstr "Lightbox Share Links Font size"
+
+#: ../admin/view/general/options.php:691 ../admin/view/general/options.php:694
+msgid "Lightbox Comments Header Font size"
+msgstr "Lightbox Comments Header Font size"
+
+#: ../admin/view/general/options.php:698 ../admin/view/general/options.php:701
+msgid "Lightbox Comments Author Font size"
+msgstr "Lightbox Comments Author Font size"
+
+#: ../admin/view/general/options.php:705 ../admin/view/general/options.php:708
+msgid "Lightbox Comments Date Font size"
+msgstr "Lightbox Comments Date Font size"
+
+#: ../admin/view/general/options.php:712 ../admin/view/general/options.php:715
+msgid "Lightbox Comments Text Font size"
+msgstr "Lightbox Comments Text Font size"
+
+#: ../admin/view/general/options.php:719 ../admin/view/general/options.php:722
+msgid "Lightbox Comments Reply Link Font size"
+msgstr "Lightbox Comments Reply Link Font size"
+
+#: ../admin/view/general/options.php:726 ../admin/view/general/options.php:729
+msgid "Lightbox Load More Comments Button Font size"
+msgstr "Lightbox Load More Comments Button Font size"
+
+#: ../admin/view/general/options.php:733 ../admin/view/general/options.php:736
+msgid "Lightbox Comment Form Header Font size"
+msgstr "Lightbox Comment Form Header Font size"
+
+#: ../admin/view/general/options.php:740 ../admin/view/general/options.php:743
+msgid "Lightbox Comment Form Input Font size"
+msgstr "Lightbox Comment Form Input Font size"
+
+#: ../admin/view/general/options.php:747 ../admin/view/general/options.php:750
+msgid "Lightbox Comment Form Submit Button Font size"
+msgstr "Lightbox Comment Form Submit Button Font size"
+
+#: ../admin/view/general/options.php:754 ../admin/view/general/options.php:757
+msgid "Lightbox Comment Form Cancel Reply Text Font size"
+msgstr "Lightbox Comment Form Cancel Reply Text Font size"
+
+#: ../admin/view/general/options.php:769
+msgid "Enable Disqus"
+msgstr "Enable Disqus"
+
+#: ../admin/view/general/options.php:775
+msgid "Enable Disqus or use the default plugin comments"
+msgstr "Enable Disqus or use the default plugin comments"
+
+#: ../admin/view/general/options.php:779
+msgid "Site Name"
+msgstr "Site Name"
+
+#: ../admin/view/general/options.php:782
+msgid "The Site Name (disqus_shortname) as typed in the Disqus Admin"
+msgstr "The Site Name (disqus_shortname) as typed in the Disqus Admin"
+
+#: ../admin/view/general/options.php:792 ../admin/view/general/options.php:795
+msgid "Plugin Title"
+msgstr "Plugin Title"
+
+#: ../admin/view/general/options.php:799
+msgid "Default Categories"
+msgstr "Default Categories"
+
+#: ../admin/view/general/options.php:808
+msgid "Categories to display by default)"
+msgstr "Categories to display by default)"
+
+#: ../admin/view/general/options.php:812
+msgid "Thumb Width"
+msgstr "Thumb Width"
+
+#: ../admin/view/general/options.php:815
+msgid "Thumbnail Width in Pixels"
+msgstr "Thumbnail Width in Pixels"
+
+#: ../admin/view/general/options.php:819
+msgid "Thumb Height"
+msgstr "Thumb Height"
+
+#: ../admin/view/general/options.php:822
+msgid "Thumbnail Height in Pixels"
+msgstr "Thumbnail Height in Pixels"
+
+#: ../admin/view/general/options.php:826
+msgid "Categories Per Page"
+msgstr "Categories Per Page"
+
+#: ../admin/view/general/options.php:829
+msgid "Maximum number of categories per page"
+msgstr "Maximum number of categories per page"
+
+#: ../admin/view/general/options.php:833
+msgid "Posts Per Page"
+msgstr "Posts Per Page"
+
+#: ../admin/view/general/options.php:836
+msgid "Maximum number of posts per page"
+msgstr "Maximum number of posts per page"
+
+#: ../admin/view/general/options.php:840 ../admin/view/general/options.php:843
+msgid "Posts Short Title Characters Limit"
+msgstr "Posts Short Title Characters Limit"
+
+#: ../admin/view/general/options.php:847 ../admin/view/general/options.php:850
+msgid "Posts Short Description Characters Limit"
+msgstr "Posts Short Description Characters Limit"
+
+#: ../admin/view/general/options.php:854
+msgid "Category Wrapper Type"
+msgstr "Category Wrapper Type"
+
+#: ../admin/view/general/options.php:861
+msgid "Category  Wrapper Type"
+msgstr "Category  Wrapper Type"
+
+#: ../admin/view/general/options.php:865
+msgid "Category / Post Wrapper Shadow"
+msgstr "Category / Post Wrapper Shadow"
+
+#: ../admin/view/general/options.php:871
+msgid "Enable/Disable Category / Post Wrapper Shadow"
+msgstr "Enable/Disable Category / Post Wrapper Shadow"
+
+#: ../admin/view/general/options.php:875
+msgid "Swap Animation"
+msgstr "Swap Animation"
+
+#: ../admin/view/general/options.php:890
+msgid "Swap Categories / Posts animation"
+msgstr "Swap Categories / Posts animation"
+
+#: ../admin/view/general/options.php:894 ../admin/view/general/options.php:900
+msgid "Enable Comments"
+msgstr "Enable Comments"
+
+#: ../admin/view/general/options.php:904 ../admin/view/general/options.php:910
+msgid "Only registered users can post comments"
+msgstr "Only registered users can post comments"
+
+#: ../admin/view/general/options.php:914
+msgid "Comments Per Load"
+msgstr "Comments Per Load"
+
+#: ../admin/view/general/options.php:917
+msgid "Maximum number of comments per load"
+msgstr "Maximum number of comments per load"
+
+#: ../admin/view/general/options.php:921
+msgid "Enable/Disable URL navigation"
+msgstr "Enable/Disable URL navigation"
+
+#: ../admin/view/general/options.php:927
+msgid "Enable/Disable URL navigation using GET params (modern browsers only)"
+msgstr "Enable/Disable URL navigation using GET params (modern browsers only)"
+
+#: ../admin/view/general/options.php:932
+msgid "Save Settings"
+msgstr "Save Settings"
+
+#: ../admin/view/general/options.php:936
+msgid "Reset Defaults"
+msgstr "Reset Defaults"
+
+#: ../admin/view/home/index.php:4
+msgid "Version"
+msgstr "Version"
+
+#: ../admin/view/posts/addedit.php:10 ../admin/view/posts/addedit.php:11
+#: ../admin/view/posts/list.php:6
+msgid "Create / Edit Post"
+msgstr "Create / Edit Post"
+
+#: ../admin/view/posts/addedit.php:29
+msgid "Post Title"
+msgstr "Post Title"
+
+#: ../admin/view/posts/addedit.php:32
+msgid "Enter Post Title"
+msgstr "Enter Post Title"
+
+#: ../admin/view/posts/addedit.php:38
+msgid "Post Category"
+msgstr "Post Category"
+
+#: ../admin/view/posts/addedit.php:47
+msgid "Select Post Category. Hold Ctrl Key to select multiple categories."
+msgstr "Select Post Category. Hold Ctrl Key to select multiple categories."
+
+#: ../admin/view/posts/addedit.php:53
+msgid "Post Thumb"
+msgstr "Post Thumb"
+
+#: ../admin/view/posts/addedit.php:56
+msgid "Post Thumbnail"
+msgstr "Post Thumbnail"
+
+#: ../admin/view/posts/addedit.php:65 ../admin/view/posts/addedit.php:79
+msgid "Post Image"
+msgstr "Post Image"
+
+#: ../admin/view/posts/addedit.php:69 ../admin/view/posts/addedit.php:83
+msgid "Pick image(s) from the Media Library"
+msgstr "Pick image(s) from the Media Library"
+
+#: ../admin/view/posts/addedit.php:102 ../admin/view/posts/addedit.php:105
+msgid "Post Short Text"
+msgstr "Post Short Text"
+
+#: ../admin/view/posts/addedit.php:111 ../admin/view/posts/addedit.php:114
+msgid "Post Content"
+msgstr "Post Content"
+
+#: ../admin/view/posts/addedit.php:122
+msgid "Save Post"
+msgstr "Save Post"
+
+#: ../admin/view/posts/list.php:5
+msgid "Posts List"
+msgstr "Posts List"
+
+#: ../admin/view/posts/list.php:9
+msgid "Create New Post"
+msgstr "Create New Post"
+
+#: ../admin/view/posts/list.php:11
+msgid "Update Posts Order"
+msgstr "Update Posts Order"
+
+#: ../site/view/comments.php:7
+msgid "Comment"
+msgstr "Comment"
+
+#: ../site/view/comments.php:7
+msgid "Comments"
+msgstr "Comments"
+
+#: ../site/view/comments.php:17
+msgid "Load older comments"
+msgstr "Load older comments"
+
+#: ../site/view/comments_form.php:8
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: ../site/view/comments_form.php:8
+msgid "(Cancel Reply)"
+msgstr "(Cancel Reply)"
+
+#: ../site/view/comments_form.php:17
+msgid "Your Name (Required)"
+msgstr "Your Name (Required)"
+
+#: ../site/view/comments_form.php:18
+msgid "E-Mail Address (Required)"
+msgstr "E-Mail Address (Required)"
+
+#: ../site/view/comments_form.php:19
+msgid "Website"
+msgstr "Website"
+
+#: ../site/view/comments_form.php:22
+msgid "Comment (Required)"
+msgstr "Comment (Required)"
+
+#: ../site/view/comments_form.php:24
+msgid "Submit Comment"
+msgstr "Submit Comment"
+
+#: ../site/view/comments_loop.php:33
+msgid "Reply to this post"
+msgstr "Reply to this post"
+
+#: ../site/view/default.php:4
+msgid "Go back"
+msgstr "Go back"
+
+#~ msgid "Facebook link"
+#~ msgstr "Facebook link"
+
+#~ msgid "Google Plus link"
+#~ msgstr "Google Plus link"
+
+#~ msgid "Twitter link"
+#~ msgstr "Twitter link"
+
+#~ msgid "Pinterest link"
+#~ msgstr "Pinterest link"
+
+#~ msgid "Optional!"
+#~ msgstr "Optional!"
